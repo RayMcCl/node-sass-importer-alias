@@ -1,7 +1,7 @@
 {
   "name": "node-sass-importer-alias",
   "author": "Ray McClain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node-sass importer which supports simply aliasing.",
   "main": "./src/index.js",
   "scripts": {
