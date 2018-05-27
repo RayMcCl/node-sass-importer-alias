@@ -1,11 +1,15 @@
 {
   "name": "node-sass-importer-alias",
+  "author": "Ray McClain",
   "version": "1.0.0",
   "description": "A node-sass importer which supports simply aliasing.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ray McClain",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/ReiMcCl/node-sass-importer-alias"
+  },
   "license": "MIT"
 }

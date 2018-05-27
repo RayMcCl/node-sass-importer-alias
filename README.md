@@ -9,11 +9,11 @@ Find it on NPM: https://www.npmjs.com/package/node-sass-importer-alias
 The package can be installed from NPM by running either of the below:
 
 ```
-npm install --save-dev postcss-importer-alias
+npm install --save-dev node-sass-importer-alias
 
 OR
 
-yarn add postcss-importer-alias
+yarn add node-sass-importer-alias
 ```
 
 ## Usage 
