@@ -24,7 +24,7 @@ function aliasImporter (alias) {
 		} catch (e) {
 			console.log('[node-sass-importer-alias] Error', e);
 		}
-	}
+	};
 }
 
 exports.default = aliasImporter;
