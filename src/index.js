@@ -27,4 +27,4 @@ function aliasImporter (alias) {
 	};
 }
 
-exports.default = aliasImporter;
+module.exports = aliasImporter;
